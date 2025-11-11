@@ -1,6 +1,4 @@
 package com.example.chitchat.feature.home
-
-import android.R.attr.data
 import androidx.lifecycle.ViewModel
 import com.example.chitchat.model.Channel
 import com.google.firebase.Firebase
