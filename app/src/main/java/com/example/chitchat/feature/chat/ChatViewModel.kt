@@ -1,7 +1,5 @@
 package com.example.chitchat.feature.chat
-
 import androidx.lifecycle.ViewModel
-import com.example.chitchat.model.Channel
 import com.example.chitchat.model.Message
 import com.google.firebase.Firebase
 import com.google.firebase.auth.auth
